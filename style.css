@@ -9097,15 +9097,13 @@ ineer Pages Header style
 /*service find bar demo1 */
 
 .sf-search-benner {
-
+    max-width: 1170px;
     position: relative;
-
+    margin: auto;
 }
-
-.sf-search-benner {
-
-    position: relative;
-
+.sf-search-benner > .sf-find-bar-inr > .container {
+    padding: 0px;
+    max-width: 1170px;
 }
 
 .sf-find-bar {
